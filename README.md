@@ -455,8 +455,8 @@ Connect with the x402 community.
 
 ## 🌟 Ecosystem Projects
 
-Projects building with or extending x402.
-
+- [Sean-Claude Van Damme's General Store](https://scvd.store) - Human-run general store selling real goods and human labor to autonomous agents over x402 v2 on Base, with signed ed25519 certificates, an MCP server, an OpenAPI contract, and Bazaar-discoverable resources.
+  
 ### Infrastructure
 
 - [Coinbase CDP](https://coinbase.com/developer-platform) - Hosted facilitator service.
